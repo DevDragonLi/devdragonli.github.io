@@ -1,11 +1,10 @@
 #Blog说明
-
-存储一些文章等
+		Blog Repo
  
-[blog website](http://devdragonli.github.io/)
+# [blog website](http://devdragonli.github.io/) 
 
 ##1.之前文章
-	- iOS开发之RAC调试
+	- iOS开发之RAC(ReactiveCocoa)调试
 	- 瑞典超初步理论分析和赛果预判测试报告
 	- UIImageView 图像笔记
 	- iOSDev work summary
@@ -22,11 +21,3 @@
 
 ##2.联系
  <dragonli_52171@163.com>   
-
-
-
-
-
-
-
-

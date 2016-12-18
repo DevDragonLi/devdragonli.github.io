@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "Life is Miracle"
+description: "Enjoy your life"
 header-img: "img/zhihu.jpg"
 ---
 
@@ -14,7 +14,7 @@ header-img: "img/zhihu.jpg"
 - 2014-至今   iOSDev 开发app 涉及 足球,社交,新闻,票务等
    
 
-- 追寻更好的自己.
+- 追寻更好的自己!
 
 
 
