@@ -16,7 +16,7 @@ header-img: "img/green.jpg"
 
 # 个人信息
 
-*   李 龙  / 男 / 1992-07-06
+*   李 龙  / 男 / 1991-07-06
 *   本科 /  河海 - 港航 
 *   技术博客: <https://github.com/devdragonli>
 *   Github: <https://github.com/devdragonli>
