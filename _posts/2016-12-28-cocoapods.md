@@ -3,7 +3,7 @@ layout: post
 title: cocoapods和使用本地或者公司内部库
 date: 2016-12-28
 categories: blog
-tags: [cocoapods]
+tags: [iOSDev]
 description: 2016-12-28-cocoapods
 
 ---
