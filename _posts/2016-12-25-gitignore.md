@@ -3,7 +3,7 @@ layout: post
 title: gitignore配置 与 隐藏文件设置
 date: 2016-12-25
 categories: blog
-tags: [gitignore]
+tags: [iOSDev]
 description: 2016-12-25-gitignore配置 与 隐藏文件设置
 
 ---
