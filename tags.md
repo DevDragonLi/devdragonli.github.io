@@ -12,7 +12,7 @@ header-img: "img/semantic.jpg"
 3. 相关的文章会「唰」地一声跳到页面顶端
 4. 马上试试？
 
-##基因列表
+##articles list of the category
 
 
 <div id='tag_cloud'>
