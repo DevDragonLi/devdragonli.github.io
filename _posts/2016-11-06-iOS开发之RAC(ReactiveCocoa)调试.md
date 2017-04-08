@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016-11-06-iOS开发之RAC(ReactiveCocoa)调试
-date: 2017-11-06
+date: 2016-11-06
 categories: blog
 tags: [iOSDev]
 description: 2016-11-06-iOS开发之RAC(ReactiveCocoa)调试
