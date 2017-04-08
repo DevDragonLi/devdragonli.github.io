@@ -1,13 +1,12 @@
 ---
 layout: post
 title: iOS开发之RAC(ReactiveCocoa)调试
-date:  2016-11-06
-categories:  blog
-tags:  [iOSDev]
+date: 2016-11-18
+categories: blog
+tags: [iOSDev]
 description: iOS开发之RAC(ReactiveCocoa)调试
 
 ---
-
 
 #RAC调试
 
@@ -58,5 +57,3 @@ description: iOS开发之RAC(ReactiveCocoa)调试
 - 保证一个 RACSignal 只会给订阅者 send 一种类型的 value，所以就手动给 signal 加了部分泛型支持
 
 - Sequence 的性能很差,最好不用
-
-
