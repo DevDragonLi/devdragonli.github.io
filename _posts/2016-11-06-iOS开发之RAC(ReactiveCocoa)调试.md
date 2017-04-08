@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2016-11-06-iOS开发之RAC(ReactiveCocoa)调试
-date: 2016-11-06
-categories: blog
-tags: [iOSDev]
-description: 2016-11-06-iOS开发之RAC(ReactiveCocoa)调试
+title: iOS开发之RAC(ReactiveCocoa)调试
+date:  2016-11-06
+categories:  blog
+tags:  [iOSDev]
+description: iOS开发之RAC(ReactiveCocoa)调试
 
 ---
 
