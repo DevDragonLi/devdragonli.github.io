@@ -30,6 +30,7 @@ zhihu_username:
 
 markdown: kramdown
 rouge: pygments
+highlight: true
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
