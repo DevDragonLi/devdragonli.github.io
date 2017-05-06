@@ -3,7 +3,7 @@ layout: post
 title: iOS核心动画高级技巧-读书笔记知识点记录
 date: 2017-05-05
 categories: blog
-tags: [Git]
+tags: [iOSDev]
 description: iOS-CoreAnimation
 
 ---
