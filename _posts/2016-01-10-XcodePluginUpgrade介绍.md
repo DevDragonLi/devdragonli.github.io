@@ -4,7 +4,7 @@ title: 2016-01-10-XcodePluginUpgrade介绍
 date: 2016-01-10
 categories: blog
 tags: [iOSDev]
-description: 2016-01-10-XcodePluginUpgrade介绍(针对自己写的Xcode插件兼容辅助工具的介绍)
+description: XcodePluginUpgrade介绍(针对自己写的Xcode插件兼容辅助工具的介绍)
 
 ---
 

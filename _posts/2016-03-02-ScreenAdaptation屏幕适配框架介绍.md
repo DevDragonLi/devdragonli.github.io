@@ -4,7 +4,7 @@ title: 2016-03-02-ScreenAdaptation屏幕适配
 date: 2016-03-02
 categories: blog
 tags: [iOSDev]
-description: 2016-03-02-ScreenAdaptation屏幕适配框架(针对自己写的屏幕适配框架介绍)
+description:ScreenAdaptation屏幕适配框架(针对自己写的屏幕适配框架介绍)
 
 ---
 

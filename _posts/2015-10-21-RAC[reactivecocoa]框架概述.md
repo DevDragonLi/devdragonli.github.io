@@ -4,7 +4,7 @@ title: 2015-10-21-RAC[reactivecocoa]框架概述
 date: 2015-10-21
 categories: blog
 tags: [iOSDev]
-description: 2015-10-21-RAC[reactivecocoa]框架概述
+description: RAC[reactivecocoa]框架概述
 
 ---
 ##1.比较适合用RAC开发中场景： 
