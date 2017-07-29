@@ -17,9 +17,10 @@ header-img: "img/green.jpg"
 # 个人信息
 
 *   李 龙  / 男 / 1992-07-06 (identity card birthday)
-*   本科 /  河海 - 港航 
-*   技术博客: <https://github.com/devdragonli>
+*   本科 /  河海大学文天学院 
+*   技术博客: <http://devdragonli.github.io>
 *   Github: <https://github.com/devdragonli>
-*   目前职业：iOSDev 
+*   目前：稀土掘金 - iOS开发工程师
+*   现居: 北京市
 
 * * *
