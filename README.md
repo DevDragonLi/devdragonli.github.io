@@ -1,4 +1,4 @@
-#Blog说明
+# Blog说明
 
 
 
@@ -8,7 +8,7 @@
 
 # [blog website](http://devdragonli.github.io/) 
 
-##1.之前文章
+## 1.之前文章
 
 - iOS开发之RAC(ReactiveCocoa)调试
 
@@ -32,4 +32,4 @@
 
 
 
-##2.联系 `dragonli_52171@163.com`
+## 2.联系 `dragonli_52171@163.com`
