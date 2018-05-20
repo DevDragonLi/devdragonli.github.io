@@ -10,14 +10,13 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：dragonli_52171@163.com
+*   Email：`dragonli_52171@163.com`
 
 * * *
 
 # 个人信息
 
-*   李 龙  / 男 / 1992-07-06 (identity card birthday)
-*   本科 /  河海大学文天学院 
+*   李 龙  / 男 /  本科 
 *   技术博客: <http://devdragonli.github.io>
 *   Github: <https://github.com/devdragonli>
 *   目前：稀土掘金 - iOS开发工程师
