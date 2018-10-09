@@ -1,10 +1,10 @@
 ---
 layout: post
-title: YYCache一
+title: iOS开发中缓存框架之YYCache
 date: 2017-06-05
 categories: blog
 tags: [iOSDev]
-description: YYCache一
+description: iOS 开发中总会用到各种缓存，YYCache或许是你最好的选择。性能上有优势.API简单
 
 ---
 
