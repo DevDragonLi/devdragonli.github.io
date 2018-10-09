@@ -6,12 +6,16 @@ header-img: "img/zhihu.jpg"
 ---
 
 
-###Path：
+### Path：
 
 
 - 2012-2014 The android ROM development and anzhi BBS Moderator 
 
-- 2014-至今 iOS开发工程师 开发app 涉及 足球,社交,新闻,票务,技术社区等
+- 2015.12 - 2018.7 iOS开发工程师 涉及 足球,社交,新闻,票务等
+
+- 2017.7 - 2018.7 掘金 iOS开发工程师 
+   
+- 2018.7 - 至今 百度 iOS开发工程师   
    
 - 追寻更好的自己,心无旁骛的追寻技术!
 
