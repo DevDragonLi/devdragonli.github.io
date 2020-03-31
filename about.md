@@ -19,7 +19,7 @@ header-img: "img/green.jpg"
 *   李 龙  / 男 /  本科 
 *   技术博客: <http://devdragonli.github.io>
 *   Github: <https://github.com/devdragonli>
-*   目前：百度  - iOS开发工程师
+*   目前：百度  - iOS高级开发工程师
 *   现居: 北京市
 
 * * *

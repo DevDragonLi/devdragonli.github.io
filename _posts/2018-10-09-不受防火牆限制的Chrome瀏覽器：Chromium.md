@@ -10,6 +10,8 @@ description: 不受限制的Chrome瀏覽器，支持64位Windows 10/8/7，64位m
 
 ## [project直达地址](https://free-vpn.github.io/chrome/)
 
+- 2020测试已失效
+
 - [手机电脑可以直接访问搜索的谷歌镜像网址（免翻qian](https://google.weihanli.xyz/)
 
 	- https://google.weihanli.xyz/
